@@ -9,7 +9,7 @@
 
 ## Laravel Project Topics
 
-<strong>1- Introduction Laravel</strong>
+<p><strong>1- Introduction Laravel</strong></p>
 <strong>2- Installing Laravel</strong>
 <strong>3- First Look At The Project</strong>
 <strong>4- Intro PHP Artisan</strong>
