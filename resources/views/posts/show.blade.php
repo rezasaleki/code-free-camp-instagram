@@ -10,7 +10,7 @@
             <div>
                 <div class="d-flex align-items-center">
                     <div class="pr-3">
-                        <img src="{{ $user->profile->profileImage() }}" alt="{{ $post->caption }}" class="rounded-circle w-100" style="max-width: 60px">
+                        <img src="{{ $post->user->profile->profileImage() }}" alt="{{ $post->caption }}" class="rounded-circle w-100" style="max-width: 60px">
                     </div>
                     <div>
                         <h2 class="font-weight-bold">

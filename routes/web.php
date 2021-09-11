@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProfilesController;
 use App\Http\Controllers\PostsController;
+use App\Mail\NewUserWelcomeMail;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,9 +18,6 @@ use App\Http\Controllers\PostsController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
 Auth::routes();
 
@@ -27,9 +25,14 @@ Route::get('profile/{username}', [ProfilesController::class, 'index'])->name('pr
 Route::get('profile/{user}/edit', [ProfilesController::class, 'edit'])->name('profiles.edit');
 Route::put('profile/{user}', [ProfilesController::class, 'update'])->name('profiles.update');
 
+Route::get('/', [PostsController::class, 'index'])->name('posts.index');
 Route::get('post/create', [PostsController::class, 'create'])->name('posts.create');
 Route::post('post', [PostsController::class, 'store'])->name('posts.store');
 Route::get('posts/{post}/edit', [PostsController::class, 'edit'])->name(('posts.edit'));
 Route::get('posts/{post}', [PostsController::class, 'show'])->name('posts.show');
 
 Route::post('follow/{user}', [FollowsController::class, 'store'])->name('follows.store');
+
+Route::get('mail', function () {
+    return new NewUserWelcomeMail();
+});
