@@ -29,16 +29,16 @@
 <p><strong>17- Laravel Telescope</strong></p>
 <p><strong>18- Pagination with Eloquent</strong></p>
 
-How to Run Project ?
+<p><strong>How to Run Project ?</p></strong>
 
-if you not install laravel and composer you must bellow links install and config them
+<p>if you not install laravel and composer you must bellow links install and config them</p>
 
-https://getcomposer.org/download
+<p>https://getcomposer.org/download</p>
 
-1- npm install
-2- composer install
-3- configuration .env file
-4- if you used to sqlite run command: touch database/database.sqlite
-5- php artisan migrate
-6- npm run dev OR watch
-7- php artisan serve
+<p><strong>1- npm install</strong></p>
+<p><strong>2- composer install</strong></p>
+<p><strong>3- configuration .env file</strong></p>
+<p><strong>4- if you used to sqlite run command: touch database/database.sqlite</strong></p>
+<p><strong>5- php artisan migrate</strong></p>
+<p><strong>6- npm run dev OR watch</strong></p>
+<p><strong>7- php artisan serve</strong></p>
