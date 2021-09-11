@@ -9,27 +9,31 @@
 
 ## Laravel Project Topics
 
-1- Introduction Laravel
-2- Installing Laravel
-3- First Look At The Project
-4- Intro PHP Artisan
-5- Setting Up The Front End With Node And NPM
-6- Migrations And Setting Up SQLite
-7- Designing The UI From Instagram
-8- Create Profile Controller
-8- RESTFul Resource Controller
-9- Adding Eloquent Relationship
-10- Adding Posts To The Database And Many to Many Relationship
-11- Adding Eloquent And Illuminate ORM
-12- Uploading Saving The Image To The Project
-13- Resizing Images With Intervention Image PHP Library
-14- Rouet Model Binding
-15- Automatically Creating a Profile Using Model Events
-16- Follow/Unfollow Profiles Using a Vue.js Component
-17- Laravel Telescope
-18- Pagination with Eloquent
+<strong>1- Introduction Laravel</strong>
+<strong>2- Installing Laravel</strong>
+<strong>3- First Look At The Project</strong>
+<strong>4- Intro PHP Artisan</strong>
+<strong>5- Setting Up The Front End With Node And NPM</strong>
+<strong>6- Migrations And Setting Up SQLite</strong>
+<strong>7- Designing The UI From Instagram</strong>
+<strong>8- Create Profile Controller</strong>
+<strong>8- RESTFul Resource Controller</strong>
+<strong>9- Adding Eloquent Relationship</strong>
+<strong>10- Adding Posts To The Database And Many to Many Relationship</strong>
+<strong>11- Adding Eloquent And Illuminate ORM</strong>
+<strong>12- Uploading Saving The Image To The Project</strong>
+<strong>13- Resizing Images With Intervention Image PHP Library</strong>
+<strong>14- Rouet Model Binding</strong>
+<strong>15- Automatically Creating a Profile Using Model Events</strong>
+<strong>16- Follow/Unfollow Profiles Using a Vue.js Component</strong>
+<strong>17- Laravel Telescope</strong>
+<strong>18- Pagination with Eloquent</strong>
 
 How to Run Project ?
+
+if you not install laravel and composer you must bellow links install and config them
+
+https://getcomposer.org/download
 
 1- npm install
 2- composer install
