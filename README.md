@@ -10,24 +10,24 @@
 ## Laravel Project Topics
 
 <p><strong>1- Introduction Laravel</strong></p>
-<strong>2- Installing Laravel</strong>
-<strong>3- First Look At The Project</strong>
-<strong>4- Intro PHP Artisan</strong>
-<strong>5- Setting Up The Front End With Node And NPM</strong>
-<strong>6- Migrations And Setting Up SQLite</strong>
-<strong>7- Designing The UI From Instagram</strong>
-<strong>8- Create Profile Controller</strong>
-<strong>8- RESTFul Resource Controller</strong>
-<strong>9- Adding Eloquent Relationship</strong>
-<strong>10- Adding Posts To The Database And Many to Many Relationship</strong>
-<strong>11- Adding Eloquent And Illuminate ORM</strong>
-<strong>12- Uploading Saving The Image To The Project</strong>
-<strong>13- Resizing Images With Intervention Image PHP Library</strong>
-<strong>14- Rouet Model Binding</strong>
-<strong>15- Automatically Creating a Profile Using Model Events</strong>
-<strong>16- Follow/Unfollow Profiles Using a Vue.js Component</strong>
-<strong>17- Laravel Telescope</strong>
-<strong>18- Pagination with Eloquent</strong>
+<p><strong>2- Installing Laravel</strong></p>
+<p><strong>3- First Look At The Project</strong></p>
+<p><strong>4- Intro PHP Artisan</strong></p>
+<p><strong>5- Setting Up The Front End With Node And NPM</strong></p>
+<p><strong>6- Migrations And Setting Up SQLite</strong></p>
+<p><strong>7- Designing The UI From Instagram</strong></p>
+<p><strong>8- Create Profile Controller</strong></p>
+<p><strong>8- RESTFul Resource Controller</strong></p>
+<p><strong>9- Adding Eloquent Relationship</strong></p>
+<p><strong>10- Adding Posts To The Database And Many to Many Relationship</strong></p>
+<p><strong>11- Adding Eloquent And Illuminate ORM</strong></p>
+<p><strong>12- Uploading Saving The Image To The Project</strong></p>
+<p><strong>13- Resizing Images With Intervention Image PHP Library</strong></p>
+<p><strong>14- Rouet Model Binding</strong></p>
+<p><strong>15- Automatically Creating a Profile Using Model Events</strong></p>
+<p><strong>16- Follow/Unfollow Profiles Using a Vue.js Component</strong></p>
+<p><strong>17- Laravel Telescope</strong></p>
+<p><strong>18- Pagination with Eloquent</strong></p>
 
 How to Run Project ?
 
